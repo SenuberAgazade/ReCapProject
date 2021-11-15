@@ -12,3 +12,5 @@ C:\Users\senuber.agazade\Desktop\ReCapProject\Business\obj\Debug\netstandard2.0\
 C:\Users\senuber.agazade\Desktop\ReCapProject\Business\obj\Debug\netstandard2.0\Business.csproj.CopyComplete
 C:\Users\senuber.agazade\Desktop\ReCapProject\Business\obj\Debug\netstandard2.0\Business.dll
 C:\Users\senuber.agazade\Desktop\ReCapProject\Business\obj\Debug\netstandard2.0\Business.pdb
+C:\Users\senuber.agazade\Desktop\ReCapProject\Business\bin\Debug\netstandard2.0\Core.dll
+C:\Users\senuber.agazade\Desktop\ReCapProject\Business\bin\Debug\netstandard2.0\Core.pdb
