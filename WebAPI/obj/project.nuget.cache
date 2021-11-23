@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "jvGQ1M+0BfIghXs9uYiFDdMY2wewPXxneC+2gZMEcAJ3zTo6knZqmMoiqaKNsbw3Rh6wA1sDMofeNuDIbgLEKA==",
+  "dgSpecHash": "s66S1/dJiW1gbe45/wf/YmAhd/sjMzlmigUca0ZcGRCPHZ9+7xpwmyZWd1cadW0ba0wKQu+U5W3iyRxo/cQKKQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\senuber.agazade\\Desktop\\ReCapProject\\WebAPI\\WebAPI.csproj",
   "expectedPackageFiles": [
@@ -8,6 +8,7 @@
     "C:\\Users\\senuber.agazade\\.nuget\\packages\\autofac.extensions.dependencyinjection\\7.2.0\\autofac.extensions.dependencyinjection.7.2.0.nupkg.sha512",
     "C:\\Users\\senuber.agazade\\.nuget\\packages\\autofac.extras.dynamicproxy\\6.0.0\\autofac.extras.dynamicproxy.6.0.0.nupkg.sha512",
     "C:\\Users\\senuber.agazade\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
+    "C:\\Users\\senuber.agazade\\.nuget\\packages\\fluentvalidation\\9.5.1\\fluentvalidation.9.5.1.nupkg.sha512",
     "C:\\Users\\senuber.agazade\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\senuber.agazade\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",
     "C:\\Users\\senuber.agazade\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
