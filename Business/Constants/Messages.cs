@@ -13,5 +13,6 @@ namespace Business.Constants
         public static string DailyPriceInvalid = "Daily price must be greater than zero";
         public static string MessageListed = "Listed successfully";
         public static string MessageReturnDate = "The process is not completed because of return date";
+        public static string CarImagesOfCarLimitExceeded = "Image count of car can't be greater than 5";
     }
 }
