@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Runtime.Serialization;
 using System.Text;
 
 namespace Business.Constants
@@ -14,5 +15,6 @@ namespace Business.Constants
         public static string MessageListed = "Listed successfully";
         public static string MessageReturnDate = "The process is not completed because of return date";
         public static string CarImagesOfCarLimitExceeded = "Image count of car can't be greater than 5";
+        public static string AuthorizationDenied = "You don't have authorization";
     }
 }
