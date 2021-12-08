@@ -23,8 +23,8 @@ namespace Business.Concrete
 
         public IDataResult<AccessToken> CreateAccessToken(User user)
         {
-            var claims = _userService.GetClaims(user).Data;
-            var accessToken = _tokenHelper.CreateToken(user, claims);
+            var claims = _userService.GetClaims(user);
+            var accessToken = _tokenHelper.CreateToken(user, claims.Data);
             return new SuccessDataResult<AccessToken>(accessToken, "Token oluşturuldu");
         }
 
@@ -42,7 +42,7 @@ namespace Business.Concrete
                 return new ErrorDataResult<User>("Parola hatasi");
             }
 
-            return new SuccessDataResult<User>("Sisteme giris basarili");
+            return new SuccessDataResult<User>(userToCheck.Data,"Sisteme giris basarili");
         }
 
         public IDataResult<User> Register(UserForRegisterDto userForRegisterDto)

@@ -22,9 +22,9 @@ namespace WebAPI.Controllers
         }
 
         [HttpGet("getall")]
-        public IActionResult GetAll()
+        public IActionResult GetByMail(string email)
         {
-            var result = _userService.GetAll();
+            var result = _userService.GetByMail(email);
 
             if (result.Success)
             {
