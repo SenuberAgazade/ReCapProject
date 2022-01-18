@@ -1,3 +1,7 @@
+C:\Users\senuber.agazade\Desktop\ReCapProject\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.csprojAssemblyReference.cache
+C:\Users\senuber.agazade\Desktop\ReCapProject\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.AssemblyInfoInputs.cache
+C:\Users\senuber.agazade\Desktop\ReCapProject\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.AssemblyInfo.cs
+C:\Users\senuber.agazade\Desktop\ReCapProject\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.csproj.CoreCompileInputs.cache
 C:\Users\senuber.agazade\Desktop\ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.exe
 C:\Users\senuber.agazade\Desktop\ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.deps.json
 C:\Users\senuber.agazade\Desktop\ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.runtimeconfig.json
@@ -65,10 +69,6 @@ C:\Users\senuber.agazade\Desktop\ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\
 C:\Users\senuber.agazade\Desktop\ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\DataAccess.pdb
 C:\Users\senuber.agazade\Desktop\ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\Entities.pdb
 C:\Users\senuber.agazade\Desktop\ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\Core.pdb
-C:\Users\senuber.agazade\Desktop\ReCapProject\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.csprojAssemblyReference.cache
-C:\Users\senuber.agazade\Desktop\ReCapProject\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.AssemblyInfoInputs.cache
-C:\Users\senuber.agazade\Desktop\ReCapProject\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.AssemblyInfo.cs
-C:\Users\senuber.agazade\Desktop\ReCapProject\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.csproj.CoreCompileInputs.cache
 C:\Users\senuber.agazade\Desktop\ReCapProject\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.csproj.CopyComplete
 C:\Users\senuber.agazade\Desktop\ReCapProject\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.dll
 C:\Users\senuber.agazade\Desktop\ReCapProject\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.pdb

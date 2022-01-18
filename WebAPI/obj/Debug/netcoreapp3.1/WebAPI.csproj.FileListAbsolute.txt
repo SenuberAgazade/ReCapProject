@@ -1,3 +1,8 @@
+C:\Users\senuber.agazade\Desktop\ReCapProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csprojAssemblyReference.cache
+C:\Users\senuber.agazade\Desktop\ReCapProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfoInputs.cache
+C:\Users\senuber.agazade\Desktop\ReCapProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfo.cs
+C:\Users\senuber.agazade\Desktop\ReCapProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\senuber.agazade\Desktop\ReCapProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\senuber.agazade\Desktop\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\senuber.agazade\Desktop\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\appsettings.json
 C:\Users\senuber.agazade\Desktop\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.exe
@@ -62,11 +67,6 @@ C:\Users\senuber.agazade\Desktop\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\Bus
 C:\Users\senuber.agazade\Desktop\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\Core.pdb
 C:\Users\senuber.agazade\Desktop\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\DataAccess.pdb
 C:\Users\senuber.agazade\Desktop\ReCapProject\WebAPI\bin\Debug\netcoreapp3.1\Entities.pdb
-C:\Users\senuber.agazade\Desktop\ReCapProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csprojAssemblyReference.cache
-C:\Users\senuber.agazade\Desktop\ReCapProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfoInputs.cache
-C:\Users\senuber.agazade\Desktop\ReCapProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfo.cs
-C:\Users\senuber.agazade\Desktop\ReCapProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CoreCompileInputs.cache
-C:\Users\senuber.agazade\Desktop\ReCapProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\senuber.agazade\Desktop\ReCapProject\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.Manifest.cache
 C:\Users\senuber.agazade\Desktop\ReCapProject\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.xml
 C:\Users\senuber.agazade\Desktop\ReCapProject\WebAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebAPI.styles.css
